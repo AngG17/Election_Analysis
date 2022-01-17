@@ -26,7 +26,13 @@ The analysis of the electin show that:
   - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
-
+- The county results were:
+  - Jefferson County had 10.5% of the vote and 38,855 votes.
+  - Denver County had 82.8% of the vote and 306,055 votes.
+  - Arapahoe County had 6.7% of the vote and 24,801 votes.
+- The county with the largest number of votes was:
+  -Denver County, which had 306,055 votes.
+  
 ## Challenge Overview
 
 ## Challenge Summary
